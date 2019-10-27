@@ -1,8 +1,6 @@
 import java.util.*;
 
-
-
-
+//https://leetcode.com/problems/reorder-data-in-log-files/
 public class Q_937 {
     public static void main(String[] args) {
         String[] logs = {"a1 9 2 3 1","g1 act car","zo4 4 7","ab1 off key dog","a8 act zoo","a2 act car"};
